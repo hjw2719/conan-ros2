@@ -1,0 +1,145 @@
+repositories:
+  ament/ament_cmake:  # ros2-galatic galactic分支
+    type: git
+    url: https://github.com/ament/ament_cmake.git
+    version: a803f8534312a3b6dbe8a274bf788955d40d0eaa
+  ament/ament_index: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ament/ament_index.git
+    version: 7c8a2762453bf928909cc3dd65d2164b2f67dbaf
+  ament/ament_lint: # ros2-galactic 0.10.6 galactic分支
+    type: git
+    url: https://github.com/ament/ament_lint.git
+    version: 4bc68c815ce308b3443e3cb38fd71e2b03ffdc40
+  ament/ament_package: # ros2-galactic 0.12.0 galactic分支
+    type: git
+    url: https://github.com/ament/ament_package.git
+    version: d695ec8f2a0e8adefc1e1212bfa6c09ca54b333d
+  eProsima/Fast-CDR: # 1.0.22分支
+    type: git
+    url: https://github.com/eProsima/Fast-CDR.git
+    version: f986b0122ddc2d4476ba86c13852597900c03bc0
+  eProsima/Fast-DDS: # v2.4.0分支
+    type: git
+    url: https://github.com/eProsima/Fast-DDS.git
+    version: 14cf9c7543b5437c26bc4215700fb0544c763ec7
+  eProsima/foonathan_memory_vendor: # 分支1.1.0
+    type: git
+    url: https://github.com/eProsima/foonathan_memory_vendor.git
+    version: 0be8f746ee33b3366528d2533087754ce14732b0
+  ros-tooling/libstatistics_collector: # ros2-galactic 1.1.1 galactic分支
+    type: git
+    url: https://github.com/ros-tooling/libstatistics_collector.git
+    version: db5f90805c6f8b40e50c15b853cc040d491e5336
+  ros-tracing/ros2_tracing: # ros2-galactic galactic分支
+    type: git
+    url: https://gitlab.com/ros-tracing/ros2_tracing.git
+    version: 07ae5aa5c456f887f2aa82896e207a3209309a50
+  ros/class_loader: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros/class_loader.git
+    version: 471c398d6b4d2a9936474aa08aee3691c89999f8
+  ros2/ament_cmake_ros:  # ros2-galactic galactic分支
+    type: git    
+    url: https://github.com/ros2/ament_cmake_ros.git
+    version: 7b6b599c3fc8023806db2a97b344e8610902adac
+  ros2/common_interfaces: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/common_interfaces.git
+    version: 151a3eb000e18dd712777431627b8286d2fd9453
+  ros2/console_bridge_vendor: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/console_bridge_vendor.git
+    version: 3d973b6c5903e0cae9dd04e89b08ba8caf619d43
+  ros2/launch:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/launch.git
+    version: 3a5c9df2e384271637ac029f48f020b7916498d6
+  ros2/libyaml_vendor: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/libyaml_vendor.git
+    version: ce1ad8793760ae9585d19a1e484e7342acb95fa2
+  ros2/message_filters: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/message_filters.git
+    version: 4061626c1cf4abbc0fafe29902b0e387fafcbfc9
+  ros2/python_cmake_module: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/python_cmake_module.git
+    version: 754c80a0f67d2fbbb7c92d36e03401f0eb26a885
+  ros2/rcl: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rcl.git
+    version: 250a071a8276d2781570c4a21fb573580b110c27
+  ros2/rcl_interfaces:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rcl_interfaces.git
+    version: c5d0a20150533a6cb93d5dcbd6e27cea9300aa6e
+  ros2/rcl_logging:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rcl_logging.git
+    version: cea8e915b2a20c383fd8f05dd954e691c20ad123
+  ros2/rclcpp:    # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rclcpp.git
+    version: 468cbab1aa9efb0f18b8d3f5cd410d2a9f21b3c6
+  ros2/rcpputils:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rcpputils.git
+    version: 07d4ae0dc8ae1f4afa1c4f9ab47448482950aba9
+  ros2/rcutils:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rcutils.git
+    version: 7c1e97eaf8278454684ffe2f1e274f39fbc0b955
+  ros2/rmw:    # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rmw.git
+    version: f9f4ef46f8dd3ef938526a1140a3c57c155a259f
+  ros2/rmw_dds_common:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rmw_dds_common.git
+    version: 44b4c6b9e2f9897d08d9c176e0d03ed6870ade04
+  ros2/rmw_fastrtps:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rmw_fastrtps.git
+    version: a6eb24881b61e3fad462c848e26f808592d2acf6
+  ros2/rmw_implementation: # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rmw_implementation.git
+    version: f635b57f5218ee931b62bf2ecdc7d83f8a92073f
+  ros2/rosidl:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rosidl.git
+    version: 7d95d643a7260ed37af4c7803422be9a205d9e51
+  ros2/rosidl_dds:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rosidl_dds.git
+    version: 664a9daadce12d02d35091d1bfde7acabe829354
+  ros2/rosidl_defaults:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rosidl_defaults.git
+    version: 6665e8848389f2c67d7c68ce7c53ca957ebcc97e
+  ros2/rosidl_typesupport:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rosidl_typesupport.git
+    version: 3bd7d816e62ec05390af09a761ea3e0d7bb7b9a6
+  ros2/rosidl_typesupport_fastrtps:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/rosidl_typesupport_fastrtps.git
+    version: 022da3fe5d255efdd69a0bcdfff6185c8016e2c0
+  ros2/spdlog_vendor:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/spdlog_vendor.git
+    version: f38518c40bbe8798d07017c8e35ed701f2400782
+  ros2/test_interface_files:  # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/test_interface_files.git
+    version: d0ee98f449c428fc2afa888b06fea48b87dc6645
+  ros2/tinyxml2_vendor:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/tinyxml2_vendor.git
+    version: 2905a56d59f0e1de436d83a7035ab850a5a75c8f
+  ros2/unique_identifier_msgs:   # ros2-galactic galactic分支
+    type: git
+    url: https://github.com/ros2/unique_identifier_msgs.git
+    version: 27767cefcf8a80da44641dc208c57722c28aa11c
