@@ -143,3 +143,7 @@ repositories:
     type: git
     url: https://github.com/ros2/unique_identifier_msgs.git
     version: 27767cefcf8a80da44641dc208c57722c28aa11c
+  hjw2719/custom_interface:  # ros2-galatic galactic分支
+    type: git
+    url: https://github.com/hjw2719/custom_interface.git
+    version: 305263717414674ac33b1352d98d3c0492e91b11
